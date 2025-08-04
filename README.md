@@ -114,7 +114,7 @@ docker run -p 8000:8000 pihex-qa-api
 
 ---
 
-Made with ❤️ by Harshvardhan
+Made with ❤️ by Harshvardhan Singh Gaur
 
 
 ```
